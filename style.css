@@ -1,0 +1,24 @@
+.tablist {
+    background-color: black;
+    color: white;
+    
+    & a {
+        text-decoration: none;
+        padding: 1rem;
+        display: inline-block;
+    
+    }
+    & a:visited {
+        color:white
+    }
+    
+    & a:hover {
+        background-color: tomato;
+    }
+    
+
+}
+
+
+
+
